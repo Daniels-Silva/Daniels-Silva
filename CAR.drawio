@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T14:13:37.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="I3iNGtWDE6PHDZ1HFWkM" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T18:52:58.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bAHIgU8RjSa-Ac2EBGPI" version="24.0.4" type="github">
   <diagram name="Página-1" id="gDwTb4JrYftBIFHhQqDf">
-    <mxGraphModel dx="794" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kmhtlZ4ojCQj3abC8RSt-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;CÓDIGO ANTERIOR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#004D49;strokeColor=#004D49;fontColor=#ffffff;labelBorderColor=#004D49;" vertex="1" parent="1">
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;CÓDIGO ANTERIOR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#9FD3C7;strokeColor=#004D49;fontColor=#000000;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="400" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="kmhtlZ4ojCQj3abC8RSt-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;REGULAMENTAÇÃO&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="kmhtlZ4ojCQj3abC8RSt-14">
@@ -31,11 +31,64 @@
         <mxCell id="kmhtlZ4ojCQj3abC8RSt-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ACOMODAÇÃO&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#4D4D4D;" vertex="1" parent="kmhtlZ4ojCQj3abC8RSt-19">
           <mxGeometry y="90" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmhtlZ4ojCQj3abC8RSt-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#616161;fillColor=#ffcc99;strokeColor=#FFE196;" edge="1" parent="1">
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#616161;strokeColor=#004D49;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414" y="480" as="sourcePoint" />
             <mxPoint x="484" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-28" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06140350877192982;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-460" width="2500" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-39" value="R" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06140350877192982;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-50" width="2500" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmhtlZ4ojCQj3abC8RSt-40" target="kmhtlZ4ojCQj3abC8RSt-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-410" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmhtlZ4ojCQj3abC8RSt-44" target="kmhtlZ4ojCQj3abC8RSt-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-44" value="POSSUI BIOMETRIA FACIAL CADASTRADA?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-370" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kmhtlZ4ojCQj3abC8RSt-46" target="kmhtlZ4ojCQj3abC8RSt-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kmhtlZ4ojCQj3abC8RSt-46" target="kmhtlZ4ojCQj3abC8RSt-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-46" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-310" width="56" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmhtlZ4ojCQj3abC8RSt-48" target="kmhtlZ4ojCQj3abC8RSt-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-48" value="DISPONIBILIZA UMA COPIA DO CARTAO PDF / JPEG. PARA DONWLOAD" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-240" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-50" value="EMITE COMUNICADO SOBRE O CARTÃO OFFLINE e NECESSIDADE DE CADASTRAR A BIOMETRIA FACIAL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-440" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmhtlZ4ojCQj3abC8RSt-55" target="kmhtlZ4ojCQj3abC8RSt-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-55" value="BAIXA O CARTÃO VIRTUAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="40" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmhtlZ4ojCQj3abC8RSt-56" target="kmhtlZ4ojCQj3abC8RSt-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-56" value="FLEGA O INDICADOR DE ATENDIMENTO OFFLINE ATÉ O VENCIMENTO OU BLOQUEIO DO CARTÃO ATUAL." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-220" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhtlZ4ojCQj3abC8RSt-61" value="PASSA A LIBERAR O ATENDIMENTO MEDIANTE A BIOMETRIA FACIAL" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-215" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
